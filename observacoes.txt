@@ -1,0 +1,2 @@
+Como nao tenho controle do banco de dados do site
+    O bdd tem que ser alterado em cada teste
